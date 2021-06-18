@@ -1,0 +1,15 @@
+url :  http://localhost:9999/meetups/nikhilbharadwaj38@gmail.com
+method : get
+
+url : http://localhost:9999/meetups/search
+method : post
+body : {
+	name: 'Learn More about OpenNebula - Cloud Platform',
+            conductBy: 'Phoenex Arena',
+            user: 'nikhilbharadwaj38@gmail.com',
+            organizer: 'Ranga D',
+            status: 'A',
+            location: 'Mumbai',
+}
+
+either one of these or combined
